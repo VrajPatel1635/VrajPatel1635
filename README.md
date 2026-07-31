@@ -286,8 +286,8 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              3D ISOMETRIC CONTRIBUTION LANDSCAPE               -->
-<!--  Generated via yoshi389111/github-profile-3d-contrib           -->
+<!--                  ENGINEERING HABITS & ACTIVITY                 -->
+<!--  Generated via lowlighter/metrics                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -296,14 +296,14 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/>
 
-## 🏔️ &nbsp;Contribution Landscape
+## 🧠 &nbsp;Engineering Habits & Activity
 
-<sub>An isometric 3D visualization of every contribution — generated daily via GitHub Actions.</sub>
+<sub>An automated breakdown of my coding habits, active hours, and recent commit history.</sub>
 
 <br/><br/>
 
 <a href="https://github.com/VrajPatel1635">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Landscape"/>
+  <img src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/metrics.habits.svg" width="95%" alt="Coding Habits & Isometric Calendar"/>
 </a>
 
 </div>
