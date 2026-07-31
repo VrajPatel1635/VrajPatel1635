@@ -5,24 +5,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-jobs:
-  contribution-3d:
-    runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: VrajPatel1635
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "chore: regenerate 3d contribution graph" || true
-          git push
+permissions:
+  contents: write
 
+jobs:
   summary-cards:
     runs-on: ubuntu-latest
     name: Generate Summary Cards
@@ -35,3 +21,23 @@ jobs:
           USERNAME: VrajPatel1635
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
+
+  contribution-3d:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    needs: summary-cards
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: VrajPatel1635
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: regenerate 3d contribution graph" || true
+          git push
