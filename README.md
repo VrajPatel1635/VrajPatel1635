@@ -237,6 +237,8 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB ANALYTICS                            -->
+<!--  Stats & Languages: pre-generated via GitHub Action            -->
+<!--  (github-profile-summary-cards) — zero external dependency     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -251,7 +253,22 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <!-- Row 1: Stats + Streak -->
 <a href="https://github.com/VrajPatel1635">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VrajPatel1635&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=e6edf3&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="Vraj's GitHub Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/VrajPatel1635">
   <img height="180" src="https://streak-stats.demolab.com?user=VrajPatel1635&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" alt="Vraj's Streak"/>
@@ -259,26 +276,9 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/><br/>
 
-<!-- Row 2: Top Languages + Activity Graph -->
-<a href="https://github.com/VrajPatel1635">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VrajPatel1635&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=e6edf3&langs_count=8" alt="Top Languages"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/VrajPatel1635">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VrajPatel1635&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-</a>
-
-<br/><br/>
-
-<!-- Row 3: Contribution Graph — full width -->
+<!-- Contribution Activity Graph -->
 <a href="https://github.com/VrajPatel1635">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VrajPatel1635&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph"/>
-</a>
-
-<br/><br/>
-
-<!-- Trophies -->
-<a href="https://github.com/VrajPatel1635">
-  <img src="https://github-profile-trophy.vercel.app/?username=VrajPatel1635&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%" alt="Trophies"/>
 </a>
 
 </div>
@@ -286,7 +286,8 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTION SNAKE                        -->
+<!--              3D ISOMETRIC CONTRIBUTION LANDSCAPE               -->
+<!--  Generated via yoshi389111/github-profile-3d-contrib           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -295,15 +296,15 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/>
 
-## 🐍 &nbsp;Contribution Graph
+## 🏔️ &nbsp;Contribution Landscape
 
-<br/>
+<sub>An isometric 3D visualization of every contribution — generated daily via GitHub Actions.</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake-dark.svg" width="95%"/>
-</picture>
+<br/><br/>
+
+<a href="https://github.com/VrajPatel1635">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Landscape"/>
+</a>
 
 </div>
 
