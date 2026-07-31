@@ -1,138 +1,352 @@
 <div align="center">
 
-<!-- Animated Name with Greeting -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6A9EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hello+World!+I'm+Vraj+Patel+👋"/>
-</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Vraj%20Patel&fontSize=72&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Builder&descSize=18&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- Subtitle -->
-<p align="center">
-  <b>💻 Passionate about Web Development, Problem Solving, Creative Projects, and AI/ML Learning</b>
-</p>
+<!-- Animated typing subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Shipping+production+systems+that+scale;From+execution+traces+to+facial+recognition;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+Docker;Building+in+public+%E2%80%94+always" alt="Typing SVG" />
+</a>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vraj-patel-1a28762ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VrajPatel1635">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-</div>
-
----
-
-<!-- About Me Section -->
-<div align="center">
-  <h2>🚀 About Me</h2>
-</div>
-
-<div align="center">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
-</div>
-
-- 🔭 **Currently working on:** Full-stack web applications  
-- 🌱 **Learning:** Advanced React patterns and Machine Learning  
-- 💡 **Interests:** `Web Development` `Problem Solving` `Creative Projects` `AI/ML`  
-- 🎯 **Goal:** Building innovative solutions that make a difference  
-- ⚡ **Fun fact:** I believe in continuous learning and growth  
-- 📫 **How to reach me:** Connect with me on LinkedIn!
-
-<br clear="both">
-
----
-
-<!-- Tech Stack Section -->
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-</div>
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Profile links — minimal, no badge bloat -->
+<a href="https://www.vraj-patel.me">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/vrajpatel1603/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:vrajrpatel6261@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/>
+</a>&nbsp;
+<a href="https://github.com/VrajPatel1635">
+  <img src="https://komarev.com/ghpvc/?username=VrajPatel1635&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- GitHub Stats Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `> whoami`
+
+```yaml
+name: Vraj Patel
+location: Ahmedabad, Gujarat, India
+role: Full-Stack Engineer & System Architect
+website: vraj-patel.me
+
+currently:
+  building: Production-grade web systems
+  exploring: AI/ML pipelines & Docker orchestration
+  shipping: Projects that solve real problems
+
+philosophy: >
+  Write code that other engineers
+  want to read. Ship systems that
+  users don't notice — because
+  they just work.
+```
+
+</td>
+<td width="45%" valign="top">
+
+### `> tech --core`
+
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" alt="Core Stack" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&theme=dark" alt="Infrastructure" /><br/>
+<img src="https://skillicons.dev/icons?i=js,java,html,css&theme=dark" alt="Languages" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,vite,vercel,python&theme=dark" alt="Tools" />
+
+<br/><br/>
+
 </div>
 
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VrajPatel1635&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A9EFF&icon_color=6A9EFF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VrajPatel1635&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A9EFF&ring=6A9EFF&fire=FF6B6B&currStreakLabel=6A9EFF" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<sub>Systems I've architected & shipped — each one solving a distinct engineering problem.</sub>
+
+<br/><br/>
+
 </div>
 
+<!-- ─────────── PROJECT 1: CodeScope ─────────── -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 CodeScope
+**Algorithm Execution Visualizer**
+
+An execution visualizer that compiles, traces, and reconstructs every micro-step of your Java code into an interactive, time-travel debuggable timeline.
+
+`Next.js` `Express` `Docker` `React 19`
+
+**Engineering Highlights:**
+- ⚡ Sandboxed JVM execution in ephemeral Docker containers
+- 🔄 Deterministic state timeline from raw execution traces
+- 🧠 Algorithmic pattern detection (BFS, DFS, Two Pointers)
+- 📐 12 dedicated data structure visualizers
+- 🩺 Contextual diagnostic engine for runtime errors
+
+<a href="https://github.com/VrajPatel1635/CodeScope">
+  <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="Source"/>
+</a>
+<a href="https://code-scope-ochre.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Demo"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 CineMaster  
+**Full-Stack Movie Discovery Platform**
+
+A modern movie discovery platform where users explore trending films, search favorites, and view rich details — powered by TMDb API with JWT authentication.
+
+`Next.js App Router` `Express` `MongoDB Atlas` `JWT`
+
+**Engineering Highlights:**
+- 🔐 Secure JWT authentication with bcrypt hashing
+- 🔥 Real-time trending data from TMDb API
+- ❤️ Personal watchlist with persistent storage
+- ⚡ Server-side rendering for fast page loads
+- 🎨 Framer Motion animated UI transitions
+
+<a href="https://github.com/VrajPatel1635/CineMaster">
+  <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="Source"/>
+</a>
+<a href="https://cine-master-flame.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Demo"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 2 & 3: MarkME & WatchWise ─────────── -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 MarkME
+**AI Facial Recognition Attendance System**
+
+A microservices-powered attendance system using InsightFace AI to automatically mark attendance from classroom group photos with role-based dashboards.
+
+`React 19` `FastAPI` `InsightFace` `MongoDB` `Express`
+
+**Engineering Highlights:**
+- 🧠 InsightFace (Buffalo_l) + ONNX Runtime for face detection
+- 🏗️ Microservices architecture (Client + Server + AI Service)
+- 👥 Role-based access: Admin, Teacher, Principal dashboards
+- 📊 Real-time analytics & Excel integration
+- ☁️ Cloudinary for image processing pipeline
+
+<a href="https://github.com/VrajPatel1635/MarkME">
+  <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="Source"/>
+</a>
+<a href="https://markme-ai-online.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Demo"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 WatchWise
+**AI-Powered Entertainment Tracker**
+
+A full-stack entertainment companion with AI chatbot recommendations, personal watchlists, trending discovery, and integrated trailer playback.
+
+`React 19` `Vite` `Express` `MongoDB` `OpenRouter AI`
+
+**Engineering Highlights:**
+- 🤖 AI chatbot powered by OpenRouter for smart recommendations
+- 🎬 TMDb API integration for movie/TV data
+- 📊 User dashboard with watching statistics
+- 🌓 Dark/Light mode with context-based theme toggling
+- 🎥 In-app trailer integration via embedded player
+
+<a href="https://github.com/VrajPatel1635/WatchWise">
+  <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="Source"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 5: Portfolio ─────────── -->
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrajPatel1635&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A9EFF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VrajPatel1635&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6A9EFF&line=6A9EFF&point=FF6B6B" />
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ✦ Portfolio — [`vraj-patel.me`](https://vraj-patel.me)
+**Premium Developer Portfolio**
+
+A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-driven animations, Lenis smooth scrolling, and a Framer Motion custom cursor — built as a showcase of frontend engineering depth.
+
+`React` `Vite` `Three.js` `GSAP` `Framer Motion` `Tailwind CSS`
+
+<a href="https://github.com/VrajPatel1635/Portfolio">
+  <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="Source"/>
+</a>
+<a href="https://vraj-patel.me">
+  <img src="https://img.shields.io/badge/Live_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live"/>
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Trophy Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=VrajPatel1635&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+
+<br/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<br/>
+
+<!-- Row 1: Stats + Streak -->
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VrajPatel1635&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=e6edf3&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="Vraj's GitHub Stats"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://streak-stats.demolab.com?user=VrajPatel1635&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" alt="Vraj's Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- Row 2: Top Languages + Activity Graph -->
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VrajPatel1635&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=e6edf3&langs_count=8" alt="Top Languages"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/VrajPatel1635">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VrajPatel1635&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</a>
+
+<br/><br/>
+
+<!-- Row 3: Contribution Graph — full width -->
+<a href="https://github.com/VrajPatel1635">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VrajPatel1635&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph"/>
+</a>
+
+<br/><br/>
+
+<!-- Trophies -->
+<a href="https://github.com/VrajPatel1635">
+  <img src="https://github-profile-trophy.vercel.app/?username=VrajPatel1635&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%" alt="Trophies"/>
+</a>
+
 </div>
 
----
+<br/>
 
-<!-- Quote Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONTRIBUTION SNAKE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <h2>💭 Daily Developer Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+
+<br/>
+
+## 🐍 &nbsp;Contribution Graph
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
 </div>
 
----
+<br/>
 
-<!-- Connect Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <h2>🤝 Let's Connect!</h2>
-  <p>
-    <i>I'm always excited to collaborate on interesting projects and innovative ideas!</i>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/vraj-patel-1a28762ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VrajPatel1635">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:vrajrpatel6261@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-<!-- Footer -->
-<div align="center">
-  <br>
-  <h3>✨ "Walk Slowly, but Never Backward" ✨</h3>
-  <br>
-  <p>
-    <i>Thanks for visiting my profile! Feel free to explore my repositories and don't forget to leave a ⭐</i>
-  </p>
-  <br>
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Walk slowly, but never backward."                         ║
+║                                                              ║
+║   Building systems that matter — one commit at a time.       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<a href="https://www.vraj-patel.me">
+  <img src="https://img.shields.io/badge/vraj--patel.me-0d1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Website"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vrajpatel1603/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:vrajrpatel6261@gmail.com">
+  <img src="https://img.shields.io/badge/vrajrpatel6261@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<sub>Crafted with intent. Last updated July 2026.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+
 </div>
