@@ -50,6 +50,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 2
 
       - name: Generate Space Shooter animation
