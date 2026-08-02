@@ -286,8 +286,8 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ENGINEERING HABITS & ACTIVITY                 -->
-<!--  Generated via lowlighter/metrics                              -->
+<!--                  CONTRIBUTION ARCADE                           -->
+<!--  Generated via abozanona/pacman-contribution-graph             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -296,15 +296,17 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/>
 
-## 🧠 &nbsp;Engineering Habits & Activity
+## 🕹️ &nbsp;Contribution Arcade
 
-<sub>An automated breakdown of my coding habits, active hours, and recent commit history.</sub>
+<sub>My GitHub contribution graph — turned into a Breakout battlefield. Auto-generated daily.</sub>
 
 <br/><br/>
 
-<a href="https://github.com/VrajPatel1635">
-  <img src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/metrics.habits.svg" width="95%" alt="Coding Habits & Isometric Calendar"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph-dark.svg" width="95%">
+</picture>
 
 </div>
 
@@ -320,15 +322,9 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Walk slowly, but never backward."                         ║
-║                                                              ║
-║   Building systems that matter — one commit at a time.       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/VrajPatel1635">
+  <img src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/quote.svg" width="680" alt="Walk slowly, but never backward."/>
+</a>
 
 <br/>
 
@@ -344,7 +340,7 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/><br/>
 
-<sub>Crafted with intent. Last updated July 2026.</sub>
+<sub>Crafted with intent. Last updated August 2026.</sub>
 
 <br/>
 
