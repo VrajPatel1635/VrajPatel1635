@@ -43,18 +43,23 @@ jobs:
 
   contribution-game:
     runs-on: ubuntu-latest
-    name: Generate Space Shooter
+    name: Generate Contribution Game
     permissions:
       contents: write
     needs: summary-cards
     steps:
-      - uses: actions/checkout@v4
+      - name: Generate Breakout contribution game
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          fetch-depth: 2
+          github_user_name: ${{ github.repository_owner }}
+          game: breakout
+          game_theme: github-dark
 
-      - name: Generate Space Shooter animation
-        uses: czl9707/gh-space-shooter@v2
+      - name: Push game SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: space-shooter.gif
-          strategy: random
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
