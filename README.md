@@ -287,7 +287,7 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION ARCADE                           -->
-<!--  Generated via abozanona/pacman-contribution-graph             -->
+<!--  Generated via czl9707/gh-space-shooter                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -296,17 +296,15 @@ A motion-first portfolio featuring Three.js particle backgrounds, GSAP scroll-dr
 
 <br/>
 
-## 🕹️ &nbsp;Contribution Arcade
+## 🚀 &nbsp;Contribution Arcade
 
-<sub>My GitHub contribution graph — turned into a Breakout battlefield. Auto-generated daily.</sub>
+<sub>My GitHub contribution graph — under attack. A Space Shooter generated daily from real commit data.</sub>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph.svg">
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/output/pacman-contribution-graph-dark.svg" width="95%">
-</picture>
+<a href="https://github.com/VrajPatel1635">
+  <img src="https://raw.githubusercontent.com/VrajPatel1635/VrajPatel1635/main/space-shooter.gif" width="95%" alt="Space Shooter contribution graph"/>
+</a>
 
 </div>
 
